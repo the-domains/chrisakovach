@@ -1,0 +1,28 @@
+name: ChrisAkovach
+favicon: null
+layout_spectrum: 0.6738095858599991
+typography_spectrum: 0.48842659895308316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06057651014998555
+  lightness: 0.788060748949647
+  saturation: 0.15357516496442258
+  rhythmicContrast: 0.3029914195649326
+purpose: []
