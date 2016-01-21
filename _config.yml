@@ -1,6 +1,6 @@
 name: ChrisAkovach
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50512
 typography_spectrum: 0.23843
 title: Chris Kovach  Animator Portfolio
 cta:
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0.125
-  saturation: 1
+  saturation: 0.9375
   rhythmicContrast: 1
 purpose: []
